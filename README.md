@@ -1,10 +1,10 @@
-# 🚀 Spaceship Titanic - Machine Learning Pipeline
+# Spaceship Titanic - Machine Learning Pipeline
 
 This repository contains my end-to-end machine learning solution for the Kaggle competition **[Spaceship Titanic](https://www.kaggle.com/c/spaceship-titanic)**. The goal of this project is to predict whether a passenger was transported to an alternate dimension during the spaceship's collision with a spacetime anomaly.
 
 ---
 
-## 📊 Project Overview & Pipeline Steps
+##  Project Overview & Pipeline Steps
 
 The project follows a robust, production-ready data science pipeline built in Python:
 
@@ -25,7 +25,7 @@ The project follows a robust, production-ready data science pipeline built in Py
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost
