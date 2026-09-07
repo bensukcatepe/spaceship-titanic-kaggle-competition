@@ -32,7 +32,7 @@ The project follows a robust, production-ready data science pipeline built in Py
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 * `spaceship-titanic-notebook.ipynb`: The complete Jupyter Notebook containing data exploration, feature engineering, model training, and prediction.
 * `submission.csv`: The final generated prediction file ready for Kaggle submission.
